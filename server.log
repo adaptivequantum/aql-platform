@@ -1,0 +1,85 @@
+nohup: ignoring input
+[OAuth] Initialized with baseURL: https://api.manus.im
+Server running on http://localhost:3000/
+Error generating response: Error: LLM invoke failed: 500 Internal Server Error – {"code":13,"message":"received bad response from upstream"}
+    at invokeLLM (file:///home/ubuntu/aql-platform/dist/index.js:805:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async generateStrategy (file:///home/ubuntu/aql-platform/dist/index.js:1093:20)
+    at async file:///home/ubuntu/aql-platform/dist/index.js:1587:24
+    at async resolveMiddleware (file:///home/ubuntu/aql-platform/node_modules/.pnpm/@trpc+server@11.6.0_typescript@5.9.3/node_modules/@trpc/server/dist/initTRPC-CB9uBez5.mjs:221:17)
+    at async callRecursive (file:///home/ubuntu/aql-platform/node_modules/.pnpm/@trpc+server@11.6.0_typescript@5.9.3/node_modules/@trpc/server/dist/initTRPC-CB9uBez5.mjs:256:18)
+    at async callRecursive (file:///home/ubuntu/aql-platform/node_modules/.pnpm/@trpc+server@11.6.0_typescript@5.9.3/node_modules/@trpc/server/dist/initTRPC-CB9uBez5.mjs:256:18)
+    at async procedure (file:///home/ubuntu/aql-platform/node_modules/.pnpm/@trpc+server@11.6.0_typescript@5.9.3/node_modules/@trpc/server/dist/initTRPC-CB9uBez5.mjs:281:18)
+    at async file:///home/ubuntu/aql-platform/node_modules/.pnpm/@trpc+server@11.6.0_typescript@5.9.3/node_modules/@trpc/server/dist/resolveResponse-DngSgha6.mjs:1948:18
+    at async Promise.all (index 0)
+Error generating response: Error: LLM invoke failed: 500 Internal Server Error – {"code":13,"message":"received bad response from upstream"}
+    at invokeLLM (file:///home/ubuntu/aql-platform/dist/index.js:805:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async generateStrategy (file:///home/ubuntu/aql-platform/dist/index.js:1093:20)
+    at async file:///home/ubuntu/aql-platform/dist/index.js:1587:24
+    at async resolveMiddleware (file:///home/ubuntu/aql-platform/node_modules/.pnpm/@trpc+server@11.6.0_typescript@5.9.3/node_modules/@trpc/server/dist/initTRPC-CB9uBez5.mjs:221:17)
+    at async callRecursive (file:///home/ubuntu/aql-platform/node_modules/.pnpm/@trpc+server@11.6.0_typescript@5.9.3/node_modules/@trpc/server/dist/initTRPC-CB9uBez5.mjs:256:18)
+    at async callRecursive (file:///home/ubuntu/aql-platform/node_modules/.pnpm/@trpc+server@11.6.0_typescript@5.9.3/node_modules/@trpc/server/dist/initTRPC-CB9uBez5.mjs:256:18)
+    at async procedure (file:///home/ubuntu/aql-platform/node_modules/.pnpm/@trpc+server@11.6.0_typescript@5.9.3/node_modules/@trpc/server/dist/initTRPC-CB9uBez5.mjs:281:18)
+    at async file:///home/ubuntu/aql-platform/node_modules/.pnpm/@trpc+server@11.6.0_typescript@5.9.3/node_modules/@trpc/server/dist/resolveResponse-DngSgha6.mjs:1948:18
+    at async Promise.all (index 0)
+Error generating response: Error: LLM invoke failed: 500 Internal Server Error – {"code":13,"message":"received bad response from upstream"}
+    at invokeLLM (file:///home/ubuntu/aql-platform/dist/index.js:805:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async generateStrategy (file:///home/ubuntu/aql-platform/dist/index.js:1093:20)
+    at async file:///home/ubuntu/aql-platform/dist/index.js:1587:24
+    at async resolveMiddleware (file:///home/ubuntu/aql-platform/node_modules/.pnpm/@trpc+server@11.6.0_typescript@5.9.3/node_modules/@trpc/server/dist/initTRPC-CB9uBez5.mjs:221:17)
+    at async callRecursive (file:///home/ubuntu/aql-platform/node_modules/.pnpm/@trpc+server@11.6.0_typescript@5.9.3/node_modules/@trpc/server/dist/initTRPC-CB9uBez5.mjs:256:18)
+    at async callRecursive (file:///home/ubuntu/aql-platform/node_modules/.pnpm/@trpc+server@11.6.0_typescript@5.9.3/node_modules/@trpc/server/dist/initTRPC-CB9uBez5.mjs:256:18)
+    at async procedure (file:///home/ubuntu/aql-platform/node_modules/.pnpm/@trpc+server@11.6.0_typescript@5.9.3/node_modules/@trpc/server/dist/initTRPC-CB9uBez5.mjs:281:18)
+    at async file:///home/ubuntu/aql-platform/node_modules/.pnpm/@trpc+server@11.6.0_typescript@5.9.3/node_modules/@trpc/server/dist/resolveResponse-DngSgha6.mjs:1948:18
+    at async Promise.all (index 0)
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
+[Auth] Missing session cookie
